@@ -31,3 +31,11 @@ d1 = 6;
 double quotient2 = i1 / d1;
 
 Console.WriteLine(quotient2);
+
+int a = 8;
+float b = 3;
+int c = 3;
+int d = 4;
+float dz = a*b/(c+d);
+
+Console.WriteLine(dz);
