@@ -1,0 +1,14 @@
+F:\Study\Java\CSharp\lesson1\task4\bin\Debug\net7.0\task4.exe
+F:\Study\Java\CSharp\lesson1\task4\bin\Debug\net7.0\task4.deps.json
+F:\Study\Java\CSharp\lesson1\task4\bin\Debug\net7.0\task4.runtimeconfig.json
+F:\Study\Java\CSharp\lesson1\task4\bin\Debug\net7.0\task4.dll
+F:\Study\Java\CSharp\lesson1\task4\bin\Debug\net7.0\task4.pdb
+F:\Study\Java\CSharp\lesson1\task4\obj\Debug\net7.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study\Java\CSharp\lesson1\task4\obj\Debug\net7.0\task4.AssemblyInfoInputs.cache
+F:\Study\Java\CSharp\lesson1\task4\obj\Debug\net7.0\task4.AssemblyInfo.cs
+F:\Study\Java\CSharp\lesson1\task4\obj\Debug\net7.0\task4.csproj.CoreCompileInputs.cache
+F:\Study\Java\CSharp\lesson1\task4\obj\Debug\net7.0\task4.dll
+F:\Study\Java\CSharp\lesson1\task4\obj\Debug\net7.0\refint\task4.dll
+F:\Study\Java\CSharp\lesson1\task4\obj\Debug\net7.0\task4.pdb
+F:\Study\Java\CSharp\lesson1\task4\obj\Debug\net7.0\task4.genruntimeconfig.cache
+F:\Study\Java\CSharp\lesson1\task4\obj\Debug\net7.0\ref\task4.dll
